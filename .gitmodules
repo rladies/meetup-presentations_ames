@@ -1,0 +1,9 @@
+[submodule "magic-tidying-data"]
+	path = magic-tidying-data
+	url = https://github.com/rladies-ames/magic-tidying-data
+[submodule "git-ladies"]
+	path = git-ladies
+	url = https://github.com/rladies-ames/git-ladies
+[submodule "WebscrapingTidyverse"]
+	path = WebscrapingTidyverse
+	url = https://github.com/rladies-ames/WebscrapingTidyverse
